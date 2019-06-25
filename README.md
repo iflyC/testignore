@@ -1,0 +1,2 @@
+# testignore
+test somo ignore
